@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.IO;
 using System.Linq;
-using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
+using Newtonsoft.Json;
 
 namespace EosSharp.Core.Helpers
 {
@@ -215,12 +214,7 @@ namespace EosSharp.Core.Helpers
             if (obj == null)
                 return null;
 
-            BinaryFormatter bf = new BinaryFormatter();
-            using (MemoryStream ms = new MemoryStream())
-            {
-                bf.Serialize(ms, obj);
-                return ms.ToArray();
-            }
+            return Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(obj));
         }
 
         /// <summary>

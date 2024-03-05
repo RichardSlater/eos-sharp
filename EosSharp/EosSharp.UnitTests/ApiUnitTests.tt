@@ -27,7 +27,7 @@ namespace EosSharp.UnitTests
                 //HttpEndpoint = "https://nodes.eos42.io", //Mainnet
                 //ChainId = "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
 
-                HttpEndpoint = "https://jungle2.cryptolions.io",
+                HttpEndpoint = "https://jungle4.eossweden.org",
                 ChainId = "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473"
 
 				//HttpEndpoint = "http://localhost:8888",

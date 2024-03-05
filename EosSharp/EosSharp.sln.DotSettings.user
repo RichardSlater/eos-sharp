@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\mcp\.nuget\packages\netstandard.library\2.0.3\build\netstandard2.0\ref\System.Net.Http.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/CustomGlobalProperties/=MSBuildEnableWorkloadResolver/@EntryIndexedValue">false</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25c0b011_002Df15b_002D4eee_002Dba72_002D2c3a692494fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;EosSharp.UnitTests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\source\eos-sharp\EosSharp\EosSharp.UnitTests" Presentation="&amp;lt;EosSharp.UnitTests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=1a2fc066_002D2dce_002D43dc_002D8e5a_002D6fe10505dfa9_0023EosSharp_002EUnity3D/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=3f15e919_002Dd4fa_002D4960_002Dacb2_002Daf5f486c1d58_0023EosSharp_002EUnitTests_002EUnity3D/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	</wpf:ResourceDictionary>
